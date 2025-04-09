@@ -46,10 +46,9 @@ const EditUserDialog = ({ open, handleClose, user, onSave, loading }) => {
 
     setTouched({
       ...touched,
-      [name]: true // Mark the field as touched immediately on change
+      [name]: true 
     });
 
-    // Validate the field on change
     validateField(name, value);
   };
 

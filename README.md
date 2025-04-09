@@ -1,5 +1,10 @@
 # Employee Management System
 
+## Live Demo
+You can view the live application at the following link:
+
+https://employee-management-iota-sage.vercel.app/
+
 ## Description
 
 This is an **Employee Management System** built with **React.js** and **Material UI**. The system allows administrators to log in, manage users (view, edit, delete), and receive notifications for successful or failed operations. The application integrates with the `reqres.in` API to simulate backend operations.
