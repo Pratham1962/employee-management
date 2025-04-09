@@ -1,0 +1,16 @@
+.dashboard-container {
+    min-height: 100vh;
+  }
+  
+  .dashboard-content {
+    padding: 2rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+  }
+  
+  .dashboard-content > div {
+    width: 80%;
+  }
+  
